@@ -1,15 +1,16 @@
 # Federated-Learning-Frameworks-
+
 FL Frameworks installation in AWS Environment 
 
-## pip Installation
+## PIP Installation
 
-**Python 3 – pip Installation on Ubunthu
+**Python 3 – pip Installation on Ubunthu**
 
- Enable the Universe Repository = sudo add-apt-repository universe
+**Enable the Universe Repository = sudo add-apt-repository universe**
 
- Update Your Package Lists = sudo apt update
-
- Install python3-pip = sudo apt install python3-pip
+**Update Your Package Lists = sudo apt update**
+ 
+**Install python3-pip = sudo apt install python3-pip**
 
  Confirm Installation = pip3 –version
 
