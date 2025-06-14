@@ -1,1 +1,21 @@
+Practical tools to implement FL: 
+•	TensorFlow Federated (TFF) 
+•	PySyft (OpenMined) 
+•	Flower (FLWR) 
+•	FATE (Federated AI Technology Enabler) 
+
+Design and Setup 
+Design System Architecture 
+•	Choose a suitable FL framework (e.g., Flower for simulation or FATE for enterprise). 
+•	Define roles: clients, server(s), aggregators. 
+•	Identify communication protocols (e.g., gRPC, HTTP, custom). 
+
+•	Clients: ≥3 virtual machines AWS environment
+o	EDR logs 
+o	New model vs existing FL model 
+•	Server: 1+ virtual machine 
+•	Protocols: Implement Bonawitz et al.'s Secure Aggregation (2017) 
+•	Attacks Simulated: Based on Gupta et al. (2022) — claim current secure aggregation gives false security 
+•	References 
+o	https://flower.ai/docs/ 
 
