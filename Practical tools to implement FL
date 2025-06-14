@@ -17,5 +17,5 @@ o	New model vs existing FL model
 •	Protocols: Implement Bonawitz et al.'s Secure Aggregation (2017) 
 •	Attacks Simulated: Based on Gupta et al. (2022) — claim current secure aggregation gives false security 
 •	References 
-o	https://flower.ai/docs/ 
+o	visit https://flower.ai/docs/ 
 
